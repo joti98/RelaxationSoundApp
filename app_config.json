@@ -1,0 +1,42 @@
+{
+  "app_version": "1.0.0",
+  "force_update": false,
+  "update_url": "https://play.google.com/store/apps/details?id=com.example.relaxationsoundapp",
+  
+  "ads": {
+    "enabled": true,
+    "banner_enabled": true,
+    "interstitial_enabled": true,
+    "interstitial_frequency": 5,
+    "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712"
+  },
+  
+  "premium": {
+    "enabled": true,
+    "price": 99.0,
+    "currency": "BDT",
+    "features": [
+      "সব প্রিমিয়াম সাউন্ড",
+      "বিজ্ঞাপন মুক্ত",
+      "আনলিমিটেড মিক্সিং",
+      "কাস্টম টাইমার"
+    ]
+  },
+  
+  "sounds": {
+    "max_free_sounds": 3,
+    "max_mixing": 5
+  },
+  
+  "messages": {
+    "welcome_message": "স্বাগতম! রিলাক্সেশন সাউন্ড অ্যাপে",
+    "premium_prompt": "প্রিমিয়াম ভার্সন কিনে সব ফিচার আনলক করুন",
+    "rate_app_message": "অ্যাপটি ভালো লাগলে রেটিং দিন"
+  },
+  
+  "maintenance": {
+    "enabled": false,
+    "message": "অ্যাপটি মেইনটেনেন্সের জন্য সাময়িক বন্ধ আছে"
+  }
+}
